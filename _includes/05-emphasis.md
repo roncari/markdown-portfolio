@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I am proficient at *C++* and *LISP*.
+* I am fairly good at **jiu-jitsu**.
+* I can play *some* piano.
